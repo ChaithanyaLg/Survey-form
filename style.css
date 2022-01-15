@@ -1,0 +1,35 @@
+.ast::after{
+    content: "*";
+    color:red
+
+}
+
+.checked{
+    color: rgb(221, 216, 0);
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    border-collapse: collapse;
+}
+
+tr:nth-child(even){
+    background-color: #dddddd;
+}
+
+
+.lastlabel{
+    position: relative;
+    left: 150px;
+    top: -22px;
+}
+
+.lastname{
+    position: relative;
+    left: 225px;
+    top: -22px;
+
+}
